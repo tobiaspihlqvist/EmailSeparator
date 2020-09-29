@@ -1,0 +1,13 @@
+C:\Users\TobiasPihlqvist\source\repos\EmailStringSplitter\bin\Debug\netcoreapp3.1\EmailStringSplitter.exe
+C:\Users\TobiasPihlqvist\source\repos\EmailStringSplitter\bin\Debug\netcoreapp3.1\EmailStringSplitter.deps.json
+C:\Users\TobiasPihlqvist\source\repos\EmailStringSplitter\bin\Debug\netcoreapp3.1\EmailStringSplitter.runtimeconfig.json
+C:\Users\TobiasPihlqvist\source\repos\EmailStringSplitter\bin\Debug\netcoreapp3.1\EmailStringSplitter.runtimeconfig.dev.json
+C:\Users\TobiasPihlqvist\source\repos\EmailStringSplitter\bin\Debug\netcoreapp3.1\EmailStringSplitter.dll
+C:\Users\TobiasPihlqvist\source\repos\EmailStringSplitter\bin\Debug\netcoreapp3.1\EmailStringSplitter.pdb
+C:\Users\TobiasPihlqvist\source\repos\EmailStringSplitter\obj\Debug\netcoreapp3.1\EmailStringSplitter.csprojAssemblyReference.cache
+C:\Users\TobiasPihlqvist\source\repos\EmailStringSplitter\obj\Debug\netcoreapp3.1\EmailStringSplitter.AssemblyInfoInputs.cache
+C:\Users\TobiasPihlqvist\source\repos\EmailStringSplitter\obj\Debug\netcoreapp3.1\EmailStringSplitter.AssemblyInfo.cs
+C:\Users\TobiasPihlqvist\source\repos\EmailStringSplitter\obj\Debug\netcoreapp3.1\EmailStringSplitter.csproj.CoreCompileInputs.cache
+C:\Users\TobiasPihlqvist\source\repos\EmailStringSplitter\obj\Debug\netcoreapp3.1\EmailStringSplitter.dll
+C:\Users\TobiasPihlqvist\source\repos\EmailStringSplitter\obj\Debug\netcoreapp3.1\EmailStringSplitter.pdb
+C:\Users\TobiasPihlqvist\source\repos\EmailStringSplitter\obj\Debug\netcoreapp3.1\EmailStringSplitter.genruntimeconfig.cache
